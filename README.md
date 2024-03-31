@@ -10,7 +10,10 @@ This a module for the [MagicMirror](https://github.com/MichMich/MagicMirror). It
 1. Navigate into your MagicMirror's `modules` folder and execute `git clone https://github.com/LukeSkywalker92/MMM-DWD-WarnWeather.git`. A new folder will appear, navigate into it.
 2. Execute `npm install` to install the node dependencies.
 
-
+### Update
+1. `git pull` in the modules folder of MMM-DWD-WarnWeather
+2. `npm install` in the same location
+3. restart MagicMirror
 
 ## Config
 The entry in `config.js` can include the following options:
